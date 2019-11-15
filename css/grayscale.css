@@ -317,3 +317,7 @@ a:hover {
 footer {
   padding: 5rem 0;
 }
+
+.pointer {
+  cursor: pointer;
+}
