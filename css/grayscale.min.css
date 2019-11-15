@@ -96,7 +96,7 @@
   background-size: cover;
 }
 .masthead h1 {
-  font-family: "Source Sans Pro";
+  font-family: "Arial";
   font-size: 1.5rem;
   line-height: 1.5rem;
   letter-spacing: 0.8rem;
@@ -135,7 +135,7 @@
 .btn {
   box-shadow: 0 0.1875rem 0.1875rem 0 rgba(0, 0, 0, 0.1) !important;
   padding: 1.25rem 2rem;
-  font-family: "Source Sans Pro";
+  font-family: "Arial";
   font-size: 80%;
   text-transform: uppercase;
   letter-spacing: 0.15rem;
@@ -210,7 +210,7 @@
   box-shadow: 0 0.1875rem 0.1875rem 0 rgba(0, 0, 0, 0.1) !important;
   padding: 1.25rem 2rem;
   height: auto;
-  font-family: "Source Sans Pro";
+  font-family: "Arial";
   font-size: 80%;
   text-transform: uppercase;
   letter-spacing: 0.15rem;
@@ -225,7 +225,7 @@
 }
 .contact-section .card h4 {
   font-size: 0.8rem;
-  font-family: "Source Sans Pro";
+  font-family: "Arial";
   text-transform: uppercase;
   letter-spacing: 0.15rem;
 }
@@ -253,7 +253,7 @@
   color: #fff;
 }
 body {
-  font-family: Nunito;
+  font-family: Arial;
   letter-spacing: 0.0625em;
 }
 a {
